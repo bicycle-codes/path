@@ -3,7 +3,7 @@
     "name": "Joyent",
     "url": "http://www.joyent.com"
   },
-  "name": "path",
+  "name": "@bicycle-codes/path",
   "description": "Node.JS path module",
   "keywords": [
     "ender",
